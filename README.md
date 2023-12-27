@@ -11,7 +11,7 @@ There are two main parts of this project: dataset gathering and classifier train
         ├── ptt         --- HTMLSession will do the job
         ├── Line_Today  --- Using selemium for the job
         ├── Youtube
-        └── Bahamut
+        └── Bahamut     --- Using selemium for the job, require cookies
 ```
 Besides, there is no scripts. All training & inference are build by executing.
 
