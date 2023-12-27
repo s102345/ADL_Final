@@ -1,7 +1,7 @@
 """
 此程式會使用 selenium 去爬取巴哈姆特場外區新聞看板的文章
 並將文章內容、留言、回覆存成 json 檔案
-須注意此城市需要登入巴哈姆特帳號後將 BAHARUNE cookie 提供給 driver 才能爬取
+須注意此程式需要登入巴哈姆特帳號後將 BAHARUNE cookie 提供給 driver 才能爬取
 """
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
