@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.1.0
+transformers==4.34.1
+bitsandbytes
+peft==0.6.0
+scipy
+datasets
+wandb
+evaluate
+scikit-learn
+trl
